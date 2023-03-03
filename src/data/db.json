@@ -1,0 +1,431 @@
+{
+  "ussers": [
+    {
+      "id": 1,
+      "usser": "dpaeza",
+      "password": "1234",
+      "profile_image": "https://static.vecteezy.com/system/resources/previews/002/517/990/non_2x/woman-wearing-glasses-character-avatar-in-cartoon-flat-style-round-icon-vector.jpg"
+
+    },
+    {
+      "id": 2,
+      "usser": "AnaM8129",
+      "password": "12345",
+      "profile_image": "https://i.pinimg.com/236x/78/13/dc/7813dcc40925d9cf17c53911472c4b13.jpg"
+    },
+    {
+      "id": 3,
+      "usser": "JuranyR",
+      "password": "123456",
+      "profile_image": "https://img.freepik.com/vector-premium/mujer-joven-pelo-rizado-oscuro-vector_92795-2576.jpg?w=2000"
+    }
+  ],
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Master CSS Pizza",
+      "description": "Deliciosa Pizza clásica, con orilla de pan esponjoso. Es un manjar, si estas a punto de enviar cambios a producción un viernes, necesitaras una de ellas.",
+      "price": 50000,
+      "images": {
+        "one": "https://www.laespanolaaceites.com/wp-content/uploads/2019/06/pizza-con-chorizo-jamon-y-queso-1080x671.jpg",
+        "two": "https://resizer.iproimg.com/unsafe/880x/filters:format(webp)/https://assets.iprofesional.com/assets/jpg/2021/01/511026.jpg",
+        "three": "https://www.saborusa.com/wp-content/uploads/2019/12/origen-de-la-pizza-1.jpg"
+      },
+      "reviews": [
+        {
+          "user": "dpaeza",
+          "review": "De las mejores pizzas que he probado, recomendada",
+          "stars": 3,
+          "date": "28/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Pizza super especial para Frontends",
+      "description": "Deliciosa Pizza clásica, con espinaca champiñón, pollo, pimentón verde, cebolla, tomate, aceitunas verdes/negras, tocineta, ajo y albahaca seca.",
+      "price": 55000,
+      "images": {
+        "one": "https://queapetito.com/wp-content/uploads/2020/01/pizza-3-1-1200-amp.jpg",
+        "two": "http://farm8.staticflickr.com/7049/6913769901_88f9f6df39_z.jpg",
+        "three": "https://www.seededatthetable.com/wp-content/uploads/2013/03/Thai-Chicken-Pizza-UPDATED.jpg"
+      },
+      "reviews": [
+        {
+          "user": "AnaM8129",
+          "review": "Muy deliciosa, las verduras muy ricas.",
+          "stars": 5,
+          "date": "25/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Javascript + React Pizza",
+      "description": "Deliciosa pizza con Salami, pollo, cabano, pimentón verde y cebolla",
+      "price": 58000,
+      "images": {
+        "one": "https://imag.bonviveur.com/pizza-caprichosa-o-pizza-capricciosa.jpg",
+        "two": "https://www.comedera.com/wp-content/uploads/2022/04/Pizza-capricciosa-shutterstock_1758758507.jpg",
+        "three": "https://360pizza.com/media/cache/sylius_shop_product_original/be/a0/5e21e4d03f9a27ba76053d75d7b8.jpg"
+      },
+      "reviews": [
+        {
+          "user": "JuranyR",
+          "review": "Muy rica, la recomiendo mucho!, pidanla.",
+          "stars": 5,
+          "date": "23/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Frameworks lovers",
+      "description": "Base de salsa Alfredo, queso mozzarella, carne de res, cebolla al vino, espinaca al óleo, champiñones encurtidos, extra queso mozzarella y queso parmesano.",
+      "price": 70000,
+      "images": {
+        "one": "https://carta.menu/storage/media/company_images/1110731/conversions/thumbnail.jpg",
+        "two": "https://media-cdn.tripadvisor.com/media/photo-s/1a/e4/97/a7/photo2jpg.jpg",
+        "three": "https://www.expressandstar.com/resizer/U--42sSapTfL_Rg4LcM4-SsFFFk=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/XF5OOV6DKNGQBNXWCA3XIYJWWY.jpg"
+      },
+      "reviews": [
+        {
+          "user": "dpaeza",
+          "review": "Muy buena mezcla de sabores, ingredientes diferentes.",
+          "stars": 5,
+          "date": "24/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Frontends vegetarianos",
+      "description": "Berenjena asada, zucchinis, brócoli, pimentón rojo salteado, cebolla blanca y queso parmesano.",
+      "price": 62000,
+      "images": {
+        "one": "https://img.cocinarico.es/2020-04/pizza-vegetariana-con-berenjenas-tomates-1.jpg",
+        "two": "https://www.institucionalcolombia.com/wp-content/uploads/2023/01/Pizza_vegetariana.jpg",
+        "three": "https://img.cocinarico.es/2019-12/pizza-vegetariana-1.jpg"
+      },
+      "reviews": [
+        {
+          "user": "AnaM8129",
+          "review": "Muy diferente a la pizzas vegetariana comunes, deliciosa.",
+          "stars": 4,
+          "date": "27/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Frontends veganos",
+      "description": "Champiñones, tofu crocante, tomate cherry, cebolla caramelizada, queso de almendra y queso parmesano vegano. ",
+      "price": 75000,
+      "images": {
+        "one": "https://plantbasedonabudget.com/wp-content/uploads/2013/01/Spicy-BBQ-Tofu-Pizza-Plant-Based-on-a-Budget-1-2-500x500.jpg",
+        "two": "https://cozypeachkitchen.com/wp-content/uploads/2022/06/bbq-tofu-pizza-1-6.jpg",
+        "three": "https://external-preview.redd.it/kenjis-real-deal-mapo-tofu-on-a-sourdough-pizza-with-low-v0-7eEVBHgnBGR8sStZCjCCZzSg07J3JHRyzqOIJtRLGGU.jpg?auto=webp&s=3a5fec86bc86629d23eff85037eb9e32315dd176"
+      },
+      "reviews": [
+        {
+          "user": "JuranyR",
+          "review": "Nunca había probado una pizza con tofu, muy deliciosa, recomendada!",
+          "stars": 4,
+          "date": "22/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Estilo background mediterráneo",
+      "description": "Chorizo español, pepperoni americano, aceitunas verdes, queso holandes, queso parmesano y albahaca seca.",
+      "price": 80000,
+      "images": {
+        "one": "https://www.silviocicchi.com/pizzachef/wp-content/uploads/2015/04/pizza-mediterraneaev.jpg",
+        "two": "https://www.silviocicchi.com/pizzachef/wp-content/uploads/2015/04/pizza-mediterranea4.jpg",
+        "three": "https://www.dapino.it/wp-content/uploads/2020/08/117110051_1687426298083213_8266815254201030102_n.jpg"
+      },
+      "reviews": [
+        {
+          "user": "dpaeza",
+          "review": "Muy deliciosa, recomendada.",
+          "stars": 2,
+          "date": "22/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "SweetAlert lovers",
+      "description": "Bocadillo, maduritos, tocineta, queso holandés y queso parmesano",
+      "price": 45000,
+      "images": {
+        "one": "https://img4.pizzaroma.com.co/wp-content/uploads/2020/10/IMG-20200925-WA0064.jpg",
+        "two": "https://img3.pizzaroma.com.co/wp-content/uploads/2020/10/IMG-20200925-WA0062-150x150.jpg",
+        "three": "https://tofuu.getjusto.com/orioneat-prod-resized/S3v9WESQZ7BqDxfGA-1200-1200.webp"
+      },
+      "reviews": [
+        {
+          "user": "AnaM8129",
+          "review": "Queso y bocadillo!!!! Mega rica, recomendada.",
+          "stars": 4,
+          "date": "22/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Pizza Napolitan-API",
+      "description": "Deliciosa piCSSa con champiñones, tomate, queso holandés, tilsit, queso parmesano y albahaca seca.",
+      "price": 45000,
+      "images": {
+        "one": "https://images.getrecipekit.com/20220308203252-pizzas.png?width=650&quality=90&",
+        "two": "https://editorialtelevisa.brightspotcdn.com/wp-content/uploads/2022/05/pizza-napolitana.jpg",
+        "three": "https://www.clarin.com/img/2022/02/02/xqwJySBdj_340x340__1.jpg"
+      },
+      "reviews": [
+        {
+          "user": "JuranyR",
+          "review": "Deliciosa, pruebala te la recomiendo.",
+          "stars": 3,
+          "date": "22/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Pizza Steaky Bootstrap",
+      "description": "Base de salsa 3 pimientas, queso mozzarella, champiñones al pesto, carne de res, queso azul, mezclas de pimientas, queso parmesano y albahaca fresca.",
+      "price": 45000,
+      "images": {
+        "one": "https://img.freepik.com/fotos-premium/pizza-italiana-casera-queso-mozzarella-salami-salsa-tomate-pimienta-rucula-especias_550617-35029.jpg",
+        "two": "https://bakeitwithlove.com/wp-content/uploads/2021/08/anchovy-pizza-sq.jpg",
+        "three": "https://canadabeef.mx/wp-content/uploads/2021/07/Pizza-gourmet-con-pastrami-de-carne-de-res-con-especias.jpg"
+      },
+      "reviews": [
+        {
+          "user": "dpaeza",
+          "review": "Deliciosa, pruebala te la recomiendo.",
+          "stars": 3,
+          "date": "22/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Pizza DOMino's",
+      "description": "Deliciosa pizza con salami, jamon, pepperoni y queso mozarella ",
+      "price": 48000,
+      "images": {
+        "one": "https://valentispizza.net/wp-content/uploads/2017/04/jamon-salami-600x547.jpg",
+        "two": "https://placeralplato.com/files/2019/02/Pizza-de-pepperoni-640x480.jpg",
+        "three": "https://images.milenio.com/ihZut2t4FSptlc6Lts0Ve9m7HmI=/345x237/uploads/media/2019/06/03/no-hay-quien-se-resista.jpg"
+      },
+      "reviews": [
+        {
+          "user": "AnaM8129",
+          "review": "De las mejores pizzas que he probado, recomendada.",
+          "stars": 3,
+          "date": "22/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Gourmet SASSpicy chicken",
+      "description": "Deliciosa pizza con base de salsa BBQ, pollo, tocineta y piña carmelizada.",
+      "price": 53000,
+      "images": {
+        "one": "https://okdiario.com/img/2015/09/08/receta-pizza-barbacoa.jpg",
+        "two": "https://www.unileverfoodsolutions.es/dam/global-ufs/mcos/SPAIN/calcmenu/recipes/ES-recipes/general/pizza-barbacoa/main-header.jpg",
+        "three": "https://tupizzaiolo.com/wp-content/uploads/2022/12/istockphoto-503700873-612x612-min.jpg"
+      },
+      "reviews": [
+        {
+          "user": "JuranyR",
+          "review": "De las mejores pizzas que he probado, recomendada.",
+          "stars": 3,
+          "date": "22/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Redux balsámico",
+      "description": "Deliciosa pizza con reducción de vinagre balsámico, jamón serrano, rúgula al óleo, tomate seco y queso parmesano",
+      "price": 63000,
+      "images": {
+        "one": "https://vod-hogarmania.atresmedia.com/hogarmania/images/images01/2013/06/13/5bf51456a649820001d3e317/1239x697.jpg",
+        "two": "https://static-sevilla.abc.es/media/gurmesevilla/2015/03/pizza-de-tomatitos-cherry-con-rucula.jpg",
+        "three": "https://capelliforno.com.ar/wp-content/uploads/2020/04/rucula.jpg"
+      },
+      "reviews": [
+        {
+          "user": "dpaeza",
+          "review": "De las mejores pizzas que he probado, recomendada.",
+          "stars": 3,
+          "date": "22/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "ONclick ONchange ONion",
+      "description": "Deliciosa pizza con carne de hamburguesa, tocineta, chorizo español, maín tierno, salsa blanca, queso holandés, queso parmesano y albahaca seca.",
+      "price": 63000,
+      "images": {
+        "one": "https://media-cdn.tripadvisor.com/media/photo-s/17/b1/ba/ea/pizza-con-carne-de-hamburguesa.jpg",
+        "two": "https://chefeel.com/chefgeneralfiles/2021/11/pizza3-scaled.jpg",
+        "three": "https://d1ralsognjng37.cloudfront.net/b3726c22-192e-4138-adc0-2c55bce964dc.jpeg"
+      },
+      "reviews": [
+        {
+          "user": "AnaM8129",
+          "review": "De las mejores pizzas que he probado, recomendada.",
+          "stars": 3,
+          "date": "22/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "La Axios-abrosa",
+      "description": "Deliciosa pizza con salchiza suiza, tocineta, amíz tierno, papita crocante, gel de piña y puntos de queso crema.",
+      "price": 72000,
+      "images": {
+        "one": "ttps://comecarne.org/wp-content/uploads/2020/09/pizza_salchicha_xxl.jpg",
+        "two": "https://www.saborusa.com/wp-content/uploads/2019/10/pizza_saludable2.png",
+        "three": "https://thumbs.dreamstime.com/b/pizza-del-jam%C3%B3n-y-de-salchicha-en-el-fondo-blanco-copie-espacio-receta-men%C3%BA-visi%C3%B3n-superior-118893712.jpg"
+      },
+      "reviews": [
+        {
+          "user": "JuranyR",
+          "review": "De las mejores pizzas que he probado, recomendada.",
+          "stars": 3,
+          "date": "22/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Pizza JSX-BBQQ",
+      "description": "Base BBQ, chorizo antioqueño, carne de res, maíz, cebolla al vino, sour cream y cilantro.",
+      "price": 65000,
+      "images": {
+        "one": "https://cheforopeza.com.mx/wp-content/uploads/2017/07/pizza-de-res-con-chorizo-queso-y-albahaca_recetas_chef-oropeza-jpg-940x450.",
+        "two": "https://www.recetasnestle.com.ec/sites/default/files/srh_recipes/cad501fd4431f6fc847791d2885b6082.jpg",
+        "three": "https://truffle-assets.imgix.net/b818f1e0-pizza-de-pollo_l_thubm.jpg"
+      },
+      "reviews": [
+        {
+          "user": "dpaeza",
+          "review": "De las mejores pizzas que he probado, recomendada.",
+          "stars": 3,
+          "date": "22/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "PiCSSa calamarí",
+      "description": "Base de salsa blanca, anillos de calamar, camarón, espinaca, queso parmesano y albahaca seca.",
+      "price": 84000,
+      "images": {
+        "one": "https://4.bp.blogspot.com/-cNt2lNM3FcI/Wu3gRH7NPyI/AAAAAAAADMM/MAFI5AaaqdkKqPvZKDIUrf5DrW7ToVPyQCLcBGAs/s1600/pizza%2Bcalamaretti.jpg",
+        "two": "https://calvo.es/wp-content/uploads/2020/04/pizza-mejillones-800x515-1.jpg",
+        "three": "http://3.bp.blogspot.com/-iK4DX59FTPY/VZwzV4ZapyI/AAAAAAAAGug/ywHhuwRq_Wk/s1600/pizza%2Bmarinera%2B1.jpg"
+      },
+      "reviews": [
+        {
+          "user": "AnaM8129",
+          "review": "De las mejores pizzas que he probado, recomendada.",
+          "stars": 3,
+          "date": "22/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "CSS Cheese Symphony",
+      "description": "Deliciosa pizza de 4 quesos, mozzarella, holandés, tilsit y parmesano.",
+      "price": 84000,
+      "images": {
+        "one": "https://unareceta.com/wp-content/uploads/2014/05/pizza-4-quesos.jpg",
+        "two": "https://imag.bonviveur.com/foto-portada-pizza-cuatro-quesos.jpg",
+        "three": "https://casadiromavlc.com/wp-content/uploads/2019/10/quesos-para-pizza-fundido.jpg"
+      },
+      "reviews": [
+        {
+          "user": "JuranyR",
+          "review": "De las mejores pizzas que he probado, recomendada.",
+          "stars": 3,
+          "date": "22/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "La HTMLover",
+      "description": "Deliciosa pizza con base bolognesa, queso mozzarella, queso holandés, nachos, tomate, sour cream, maíz tierno, jalapeños, guacamole y cilantro.",
+      "price": 84000,
+      "images": {
+        "one": "https://www.sargento.com/assets/Uploads/Recipe/Image/702-Pizza_Mexicana__FillWzExNzAsNTgzXQ.jpg",
+        "two": "https://recetinas.com/wp-content/uploads/2022/07/pizza-mexicana.jpg",
+        "three": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2022/08/pizzaalamexicana.jpg"
+      },
+      "reviews": [
+        {
+          "user": "dpaeza",
+          "review": "De las mejores pizzas que he probado, recomendada.",
+          "stars": 3,
+          "date": "22/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "La CSSpecial",
+      "description": "Deliciosa pizza con base miel mostaza, pollo y tocineta.",
+      "price": 84000,
+      "images": {
+        "one": "https://www.pizzapiu.com.co/wp-content/uploads/Pollo-a-la-Miel-Mostaza.jpg",
+        "two": "https://www.chovi.com/wp-content/uploads/2017/08/pexels-photo-367915.jpeg",
+        "three": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdq7FAOfxoXzJv0z3RzqSSNflAGabsoKlTP4Q9EkX_exbl5svRJt8b68drfMSHx7QBcc&usqp=CAU"
+      },
+      "reviews": [
+        {
+          "user": "AnaM8129",
+          "review": "De las mejores pizzas que he probado, recomendada.",
+          "stars": 3,
+          "date": "22/02/2023"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "La Reacttivante",
+      "description": "Deliciosa pizza con espinaca fresca, pimentones y cebollas salteadas; esparragos, aceitunas negras/verdes, queso permesano y albahaca seca.",
+      "price": 45000,
+      "images": {
+        "one": "https://www.pizzapiu.com.co/wp-content/uploads/Pollo-a-la-Miel-Mostaza.jpg",
+        "two": "https://cheforopeza.com.mx/wp-content/uploads/2018/05/pizza-esparragos.jpg",
+        "three": "https://okdiario.com/img/2019/10/15/receta-de-pizza-de-calabacin-esparragos-y-queso-de-cabra-2-1.jpg"
+      },
+      "reviews": [
+        {
+          "user": "JuranyR",
+          "review": "De las mejores pizzas que he probado, recomendada.",
+          "stars": 3,
+          "date": "22/02/2023"
+        }
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id_user": 1,
+      "id_pizza": 20,
+      "direction": "cra 101 #68-44"
+    }
+  ]
+}
