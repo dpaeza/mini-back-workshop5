@@ -212,7 +212,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 11,
       "name": "Pizza DOMino's",
       "description": "Deliciosa pizza con salami, jamon, pepperoni y queso mozarella ",
       "price": 48000,
@@ -231,7 +231,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 12,
       "name": "Gourmet SASSpicy chicken",
       "description": "Deliciosa pizza con base de salsa BBQ, pollo, tocineta y piña carmelizada.",
       "price": 53000,
@@ -250,7 +250,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 13,
       "name": "Redux balsámico",
       "description": "Deliciosa pizza con reducción de vinagre balsámico, jamón serrano, rúgula al óleo, tomate seco y queso parmesano",
       "price": 63000,
@@ -269,7 +269,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "ONclick ONchange ONion",
       "description": "Deliciosa pizza con carne de hamburguesa, tocineta, chorizo español, maín tierno, salsa blanca, queso holandés, queso parmesano y albahaca seca.",
       "price": 63000,
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 15,
       "name": "La Axios-abrosa",
       "description": "Deliciosa pizza con salchiza suiza, tocineta, amíz tierno, papita crocante, gel de piña y puntos de queso crema.",
       "price": 72000,
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 16,
       "name": "Pizza JSX-BBQQ",
       "description": "Base BBQ, chorizo antioqueño, carne de res, maíz, cebolla al vino, sour cream y cilantro.",
       "price": 65000,
@@ -326,7 +326,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 17,
       "name": "PiCSSa calamarí",
       "description": "Base de salsa blanca, anillos de calamar, camarón, espinaca, queso parmesano y albahaca seca.",
       "price": 84000,
@@ -345,7 +345,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 18,
       "name": "CSS Cheese Symphony",
       "description": "Deliciosa pizza de 4 quesos, mozzarella, holandés, tilsit y parmesano.",
       "price": 84000,
@@ -364,7 +364,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 19,
       "name": "La HTMLover",
       "description": "Deliciosa pizza con base bolognesa, queso mozzarella, queso holandés, nachos, tomate, sour cream, maíz tierno, jalapeños, guacamole y cilantro.",
       "price": 84000,
@@ -383,7 +383,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 20,
       "name": "La CSSpecial",
       "description": "Deliciosa pizza con base miel mostaza, pollo y tocineta.",
       "price": 84000,
@@ -402,7 +402,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 21,
       "name": "La Reacttivante",
       "description": "Deliciosa pizza con espinaca fresca, pimentones y cebollas salteadas; esparragos, aceitunas negras/verdes, queso permesano y albahaca seca.",
       "price": 45000,
